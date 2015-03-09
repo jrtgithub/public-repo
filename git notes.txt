@@ -26,3 +26,6 @@ Git init
 Git remote add origin https://jrtgithub@bitbucket.org/jrtgithub/test-repo.git
 
 git pull origin master
+
+
+test
