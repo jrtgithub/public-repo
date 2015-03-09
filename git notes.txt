@@ -4,7 +4,7 @@ git status
 
 git add .
 
-git commit -m "YOUR COMMENTS, not the phase, but your, Cody Yachasz, actually comments"
+git commit -m "YOUR COMMENTS"
 
 git pull origin master
 
@@ -18,6 +18,17 @@ aoginaoignwtr9340>>>>>>
 
 
 
+Github notes
+
+cd /path/to/your/project
+
+Git init
+
+Git remote add origin https://github.com/jrtgithub/public-repo.git
+
+git pull origin master
+
+
 BitBucket-notes
 cd /path/to/your/project
 
@@ -28,4 +39,4 @@ Git remote add origin https://jrtgithub@bitbucket.org/jrtgithub/test-repo.git
 git pull origin master
 
 
-test
+
