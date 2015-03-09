@@ -1,0 +1,28 @@
+cd /path/to/your/project
+
+git status
+
+git add .
+
+git commit -m "YOUR COMMENTS, not the phase, but your, Cody Yachasz, actually comments"
+
+git pull origin master
+
+git push origin master
+
+<<<<<HEAD
+one version
+=====
+other version
+aoginaoignwtr9340>>>>>>
+
+
+
+BitBucket-notes
+cd /path/to/your/project
+
+Git init
+
+Git remote add origin https://jrtgithub@bitbucket.org/jrtgithub/test-repo.git
+
+git pull origin master
